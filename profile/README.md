@@ -27,7 +27,7 @@ You can download and try our application Patypet by [clicking here](https://gith
 
 
 
-## Tech Stack
+## 🤖 Tech Stack
 
 **Client:** Kotlin
 
