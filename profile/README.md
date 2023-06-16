@@ -38,18 +38,18 @@ Kindly check to repository below to get detail information about each learning p
 
 > UI Interface
 
-![Landing](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Landing.jpg =250x250)
-![Register](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Register.jpg =250x250)
-![Login](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Login.jpg =250x250)
-![Home Screen](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Home%20Screen.jpg =250x250)
-![Pet Camera](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg =250x250)
-![Prediction Sheet](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg =250x250)
-![Prediction Sheet Detail](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg =250x250)
-![Prediction Sheet Detail Body Features](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed%20-%20Body%20Features.jpg =250x250)
-![Pet Marketplace](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg =250x250)
-![Pet Caretake](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg =250x250)
-![Pet Vet](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg =250x250)
-![Pet Adoption](https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg =250x250)
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Landing.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Register.jpg|width=100px]]
+[[(https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Login.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Home%20Screen.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed%20-%20Body%20Features.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg|width=100px]]
+[[https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg|width=100px]]
 
 
 
