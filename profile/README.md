@@ -5,7 +5,7 @@ A pet-related app that offers several features such as breed classification, obe
 
 > Application
 
-You can download and try our application Patypet by [clicking here](https://github.com/patypet-capstone/mobiledev/releases/tag/v0.2.0-alpha) and use this account when using the application
+You can download and try our application Patypet by [clicking here](https://github.com/patypet-capstone/mobiledev/releases/tag/v0.3.0-alpha) and use this account when using the application
 
 **Username** : patypetest@gmail.com
 
