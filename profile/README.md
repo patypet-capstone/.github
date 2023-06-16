@@ -10,6 +10,7 @@ A pet-related app that offers several features such as breed classification, obe
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="300">
 
 <br>
+
 ### Discover other pet essentials for your furry friend
 
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="300"> 
