@@ -1,12 +1,36 @@
-## Hi there 👋
+# Patypet
+> Protect And Treat Your Pet
 
-<!--
+A pet-related app that offers several features such as breed classification, obesity classification, animal feed purchase, pet daycare and nearby veterinarian, and adoption. Image processing is used to recommend animal feed purchase based on the type and weight of each animal. The adoption feature allows the public to upload animals for adoption, giving them an opportunity to help find adopters for abandoned animals. Adopters will be vetted by the team, ensuring a safe transfer of adoption rights.
 
-**Here are some ideas to get you started:**
+> Application
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can download and try our application Patypet by [clicking here](https://github.com/patypet-capstone/mobiledev/releases/tag/v0.2.0-alpha) and use this account when using the application
+
+**Username** : patypetest@gmail.com
+**Password** : patty123
+
+
+
+## Tech Stack
+
+**Client:** Kotlin
+
+**Server:** Google Cloud Platform
+
+
+## Patypet Team | C23-PR484
+| Name | Role | Email | GitHub | 
+| --- | --- | --- | --- |
+| Azkanul Wahyu | Machine Learning | m295dsx2822@bangkit.academy | [@azkanwhy](https://github.com/azkanwhy) |
+| Fariza Alamanda Putri | Machine Learning | m295dsy0141@bangkit.academy | [@alamandaputri](https://github.com/alamandaputri) |
+| Febri Bawahir | Machine Learning | m013dsx0098@bangkit.academy | [@bawahirfebri](https://github.com/bawahirfebri)|
+| Ahmad Rolandi Hernafahreza | Mobile Development | a151dsx1000@bangkit.academy | [@ahmrh](https://www.github.com/ahmrh) |
+| Adi Syahrul Setya Budi | Cloud Computing | c038dsx1966@bangkit.academy | [@AdiSyahrul](https://github.com/AdiSyahrul) |
+| Oswald Dew Sachio | Cloud Computing | c038dsx1369@bangkit.academy | [@swalddy](https://github.com/swalddy) |
+
+
+Kindly check to repository below to get detail information about each learning path
+ - [Cloud Computing](https://github.com/patypet-capstone/cloudcomputing)
+ - [Machine Learning](https://github.com/patypet-capstone/machinelearning)
+ - [Mobile Development](https://github.com/patypet-capstone/mobiledev)
