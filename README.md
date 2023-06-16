@@ -23,6 +23,6 @@ A pet-related app that offers several features such as breed classification, obe
 | Oswald Dew Sachio | Cloud Computing | c038dsx1369@bangkit.academy | [@swalddy](https://github.com/swalddy) |
 
 Kindly check to repository below to get detail information about each learning path
- - Cloud Computing https://github.com/patypet-capstone/cloudcomputing
- - Machine Learning https://github.com/patypet-capstone/machinelearning
- - Mobile Development https://github.com/patypet-capstone/mobiledev
+ - [Cloud Computing](https://github.com/patypet-capstone/cloudcomputing)
+ - [Machine Learning](https://github.com/patypet-capstone/machinelearning)
+ - [Mobile Development](https://github.com/patypet-capstone/mobiledev)
