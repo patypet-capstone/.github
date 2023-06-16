@@ -25,7 +25,7 @@ You can download and try our application Patypet by [clicking here](https://gith
 
 **Password** : patty123
 
-<br>
+
 
 ## Tech Stack
 
