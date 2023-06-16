@@ -3,7 +3,6 @@
 
 A pet-related app that offers several features such as breed classification, obesity classification, animal feed purchase, pet daycare and nearby veterinarian, and adoption. Image processing is used to recommend animal feed purchase based on the type and weight of each animal. The adoption feature allows the public to upload animals for adoption, giving them an opportunity to help find adopters for abandoned animals. Adopters will be vetted by the team, ensuring a safe transfer of adoption rights.
 
-<br>
 
 ## ✨ Features
 ### Scan your Pets
@@ -16,7 +15,7 @@ A pet-related app that offers several features such as breed classification, obe
 
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg" width="300">
 
-<br>
+
 
 ## 🚀 Installation and Usage
 
@@ -34,7 +33,7 @@ You can download and try our application Patypet by [clicking here](https://gith
 
 **Server:** Google Cloud Platform
 
-<br>
+
 
 ## Patypet Team | C23-PR484
 | Name | Role | Email | GitHub | 
