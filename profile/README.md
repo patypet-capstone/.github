@@ -3,7 +3,22 @@
 
 A pet-related app that offers several features such as breed classification, obesity classification, animal feed purchase, pet daycare and nearby veterinarian, and adoption. Image processing is used to recommend animal feed purchase based on the type and weight of each animal. The adoption feature allows the public to upload animals for adoption, giving them an opportunity to help find adopters for abandoned animals. Adopters will be vetted by the team, ensuring a safe transfer of adoption rights.
 
-> Application
+<br>
+
+## ✨ Features
+### Scan your Pets
+
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="300">
+
+### Pet Essentials Needs
+
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="300"> 
+
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg" width="300">
+
+<br>
+
+## 🚀 Installation and Usage
 
 You can download and try our application Patypet by [clicking here](https://github.com/patypet-capstone/mobiledev/releases/tag/v0.3.0-alpha) and use this account when using the application
 
@@ -11,7 +26,7 @@ You can download and try our application Patypet by [clicking here](https://gith
 
 **Password** : patty123
 
-
+<br>
 
 ## Tech Stack
 
@@ -19,6 +34,7 @@ You can download and try our application Patypet by [clicking here](https://gith
 
 **Server:** Google Cloud Platform
 
+<br>
 
 ## Patypet Team | C23-PR484
 | Name | Role | Email | GitHub | 
@@ -36,16 +52,6 @@ Kindly check to repository below to get detail information about each learning p
  - [Machine Learning](https://github.com/patypet-capstone/machinelearning)
  - [Mobile Development](https://github.com/patypet-capstone/mobiledev)
 
-> Scan your Pets 
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="300">
-
-> Pet Essentials Needs
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg" width="300">
 
 
 
