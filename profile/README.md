@@ -36,14 +36,12 @@ Kindly check to repository below to get detail information about each learning p
  - [Machine Learning](https://github.com/patypet-capstone/machinelearning)
  - [Mobile Development](https://github.com/patypet-capstone/mobiledev)
 
-> UI Interface
-
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Landing.jpg" width="300" alt="Landing"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Register.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Login.jpg"  width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Home%20Screen.jpg" width="300">
+> Scan your Pets 
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="300">
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed%20-%20Body%20Features.jpg" width="300">
+
+> Pet Essentials Needs
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="300">
