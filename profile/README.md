@@ -7,15 +7,15 @@ A pet-related app that offers several features such as breed classification, obe
 ## ✨ Features
 ### Scan your pet breeds classification and get informed about their needs
 
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="150"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="150"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="150">
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="250"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="250"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet%20Detailed.jpg" width="250">
 
 <br>
 
 ### Discover other pet essentials for your furry friend
 
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="150"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="150"> 
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Marketplace.jpg" width="250"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Caretake.jpg" width="250"> 
 
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="150"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg" width="150">
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Vet.jpg" width="250"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Adoption.jpg" width="250">
 
 
 
