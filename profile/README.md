@@ -38,7 +38,15 @@ Kindly check to repository below to get detail information about each learning p
 
 > UI Interface
 
-<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Landing.jpg" width="300" alt="Landing"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Register.jpg" width="300"> <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Login.jpg"  width="300">
+<figure>
+ <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Landing.jpg" width="300" alt="Landing">
+ <figcaption>Landing<figcaption>
+</figure>
+<figure>
+ <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Register.jpg" width="300">
+ <figcaption>Register</figcaption>
+</figure>
+<img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Login.jpg"  width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Home%20Screen.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Pet%20Camera.jpg" width="300">
 <img src="https://github.com/patypet-capstone/.github/blob/main/profile/ui-interfaces/Prediction%20Sheet.jpg" width="300">
